@@ -1,0 +1,63 @@
+[submodule "vendor/Consensys-gnark-crypto"]
+	path = vendor/Consensys-gnark-crypto
+	url = https://github.com/ConsenSys/gnark-crypto
+[submodule "vendor/mratsim-constantine"]
+	path = vendor/mratsim-constantine
+	url = https://github.com/mratsim/constantine
+[submodule "vendor/supranational-blst"]
+	path = vendor/supranational-blst
+	url = https://github.com/supranational/blst
+[submodule "vendor/kilic-bls12-381"]
+	path = vendor/kilic-bls12-381
+	url = https://github.com/kilic/bls12-381
+[submodule "vendor/kilic-bls12-377"]
+	path = vendor/kilic-bls12-377
+	url = https://github.com/kilic/bls12-377
+[submodule "vendor/kilic-bw6"]
+	path = vendor/kilic-bw6
+	url = https://github.com/kilic/bw6
+[submodule "vendor/kilic-bn254"]
+	path = vendor/kilic-bn254
+	url = https://github.com/kilic/bn254
+[submodule "vendor/herumi-mcl"]
+	path = vendor/herumi-mcl
+	url = https://github.com/herumi/mcl
+[submodule "vendor/relic-toolkit-relic"]
+	path = vendor/relic-toolkit-relic
+	url = https://github.com/relic-toolkit/relic
+[submodule "vendor/arkworks-rs-curves"]
+	path = vendor/arkworks-rs-curves
+	url = https://github.com/arkworks-rs/curves
+[submodule "vendor/scipr-lab-libff"]
+	path = vendor/scipr-lab-libff
+	url = https://github.com/scipr-lab/libff
+[submodule "vendor/EYBlockchain-zk-swap-libff"]
+	path = vendor/EYBlockchain-zk-swap-libff
+	url = https://github.com/EYBlockchain/zk-swap-libff
+[submodule "vendor/zkcrypto-bls12_381"]
+	path = vendor/zkcrypto-bls12_381
+	url = https://github.com/zkcrypto/bls12_381
+[submodule "vendor/AztecProtocol-barretenberg"]
+	path = vendor/AztecProtocol-barretenberg
+	url = https://github.com/AztecProtocol/barretenberg
+[submodule "vendor/cloudflare-circl"]
+	path = vendor/cloudflare-circl
+	url = https://github.com/cloudflare/circl
+[submodule "vendor/miracl-core"]
+	path = vendor/miracl-core
+	url = https://github.com/miracl/core
+[submodule "vendor/matter-labs-pairing"]
+	path = vendor/matter-labs-pairing
+	url = https://github.com/matter-labs/pairing
+[submodule "vendor/nccgroup-pairing"]
+	path = vendor/nccgroup-pairing
+	url = https://github.com/nccgroup/pairing
+[submodule "vendor/IAIK-pairings_in_c"]
+	path = vendor/IAIK-pairings_in_c
+	url = https://github.com/IAIK/pairings_in_c
+[submodule "vendor/cloudflare-bn256"]
+	path = vendor/cloudflare-bn256
+	url = https://github.com/cloudflare/bn256
+[submodule "vendor/golang-crypto"]
+	path = vendor/golang-crypto
+	url = https://github.com/golang/crypto
