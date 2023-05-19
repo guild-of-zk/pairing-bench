@@ -61,3 +61,6 @@
 [submodule "vendor/golang-crypto"]
 	path = vendor/golang-crypto
 	url = https://github.com/golang/crypto
+[submodule "vendor/paulmillr-noble-curves"]
+	path = vendor/paulmillr-noble-curves
+	url = https://github.com/paulmillr/noble-curves
